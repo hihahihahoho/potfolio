@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="figma" transform="translate(-3058 508)">
+    <rect id="Rectangle_2" data-name="Rectangle 2" width="80" height="80" rx="16" transform="translate(3058 -508)" fill="#2c2e36"/>
+    <g id="Group_2" data-name="Group 2" transform="translate(3078.311 -497.534)">
+      <path id="path0_fill" d="M9.845,219.689a9.848,9.848,0,0,0,9.845-9.845V200H9.845a9.845,9.845,0,1,0,0,19.689Z" transform="translate(0 -160.622)" fill="#0acf83"/>
+      <path id="path1_fill" d="M0,109.845A9.848,9.848,0,0,1,9.845,100h9.845v19.689H9.845A9.848,9.848,0,0,1,0,109.845Z" transform="translate(0 -80.311)" fill="#a259ff"/>
+      <path id="path1_fill_1_" d="M0,9.845A9.848,9.848,0,0,1,9.845,0h9.845V19.689H9.845A9.848,9.848,0,0,1,0,9.845Z" fill="#f24e1e"/>
+      <path id="path2_fill" d="M100,0h9.845a9.845,9.845,0,1,1,0,19.689H100Z" transform="translate(-80.311)" fill="#ff7262"/>
+      <path id="path3_fill" d="M119.689,109.845A9.845,9.845,0,1,1,109.845,100,9.848,9.848,0,0,1,119.689,109.845Z" transform="translate(-80.311 -80.311)" fill="#1abcfe"/>
+    </g>
+  </g>
+</svg>
